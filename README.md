@@ -4,6 +4,14 @@ A LaTeX Beamer theme template for the School of Statistics, Renmin University of
 
 中国人民大学统计学院 Beamer 模板。
 
+## 预览
+
+| 封面 | 目录 |
+|:---:|:---:|
+| ![封面](preview/title.png) | ![目录](preview/toc.png) |
+| ![内容页](preview/content.png) | ![公式排版](preview/math.png) |
+| 内容页与顶栏章节导航 | 公式排版 |
+
 ## 模板来源与致谢
 
 本模板在 [GohUnTsuan/RUC-Beamer-Theme](https://github.com/GohUnTsuan/RUC-Beamer-Theme) 的基础上修改而成，感谢 GohUnTsuan 同学！
