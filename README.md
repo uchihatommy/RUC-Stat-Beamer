@@ -9,8 +9,8 @@ A LaTeX Beamer theme template for the School of Statistics, Renmin University of
 | 封面 | 目录 |
 |:---:|:---:|
 | ![封面](preview/title.png) | ![目录](preview/toc.png) |
-| ![内容页](preview/content.png) | ![公式排版](preview/math.png) |
-| 内容页与顶栏章节导航 | 公式排版 |
+| ![内容页](preview/content.png) | ![排版举例](preview/typeset.png) |
+| 内容页与顶栏章节导航 | 排版举例 |
 
 ## 模板来源与致谢
 
