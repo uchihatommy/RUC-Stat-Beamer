@@ -12,3 +12,6 @@
 *.xdv
 *.blg
 *.bbl
+
+## WorkBuddy workspace metadata
+.workbuddy/
